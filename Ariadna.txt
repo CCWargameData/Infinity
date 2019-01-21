@@ -1,0 +1,1230 @@
+{
+  "games" : [ {
+    "gameName" : "Infinity",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Line Kazak",
+        "listOfOptions" : [ {
+          "optionCost" : 9.0,
+          "listOfRestrictions" : null,
+          "optionID" : 483,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 484,
+          "optionName" : "AP HMG, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        }, {
+          "optionCost" : 13.0,
+          "listOfRestrictions" : null,
+          "optionID" : 485,
+          "optionName" : "Rifle, Light Grenade Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        }, {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 486,
+          "optionName" : "Sniper Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        }, {
+          "optionCost" : 17.0,
+          "listOfRestrictions" : null,
+          "optionID" : 487,
+          "optionName" : "Missile Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 2,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Line Kazak (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 488,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 27,
+        "autoAddDictionary" : {
+          "488" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Line Kazak Paramedic (MediKit)",
+        "listOfOptions" : [ {
+          "optionCost" : 11.0,
+          "listOfRestrictions" : null,
+          "optionID" : 489,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 53,
+        "autoAddDictionary" : {
+          "489" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Line Kazak Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 9.0,
+          "listOfRestrictions" : null,
+          "optionID" : 490,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 101,
+        "autoAddDictionary" : {
+          "490" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Para-Commando",
+        "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 491,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 31.0,
+          "listOfRestrictions" : null,
+          "optionID" : 492,
+          "optionName" : "HMG, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        }, {
+          "optionCost" : 22.0,
+          "listOfRestrictions" : null,
+          "optionID" : 493,
+          "optionName" : "Boarding Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 24.0,
+          "listOfRestrictions" : null,
+          "optionID" : 494,
+          "optionName" : "Rifle, Light Grenade Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        }, {
+          "optionCost" : 27.0,
+          "listOfRestrictions" : null,
+          "optionID" : 495,
+          "optionName" : "Sniper Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 102,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Para-Commando (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 21.0,
+          "listOfRestrictions" : null,
+          "optionID" : 496,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 103,
+        "autoAddDictionary" : {
+          "496" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Spetsnaz (CH: Ambush Camouflage)",
+        "listOfOptions" : [ {
+          "optionCost" : 38.0,
+          "listOfRestrictions" : null,
+          "optionID" : 497,
+          "optionName" : "HMG, Pistol, CCW & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 34.0,
+          "listOfRestrictions" : null,
+          "optionID" : 498,
+          "optionName" : "Sniper Rifle, Pistol, CCW & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 104,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Spetsnaz (CH: Mimetism, AD: Parachutist)",
+        "listOfOptions" : [ {
+          "optionCost" : 33.0,
+          "listOfRestrictions" : null,
+          "optionID" : 499,
+          "optionName" : "Boarding Shotgun, Grenades, Pistol, AP CCW, Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 31.0,
+          "listOfRestrictions" : null,
+          "optionID" : 500,
+          "optionName" : "Boarding Rifle, Grenades, Pistol, AP CCW, Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 105,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grunt",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 501,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 502,
+          "optionName" : "Heavy Flamethrower, Light Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 21.0,
+          "listOfRestrictions" : null,
+          "optionID" : 503,
+          "optionName" : "HMG, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 504,
+          "optionName" : "Rifle, Light Grenade Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Garrison Troops",
+        "unitCost" : 0.0,
+        "unitID" : 106,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grunt (Marksmanship LX)",
+        "listOfOptions" : [ {
+          "optionCost" : 18.0,
+          "listOfRestrictions" : null,
+          "optionID" : 505,
+          "optionName" : "Sniper Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Garrison Troops",
+        "unitCost" : 0.0,
+        "unitID" : 107,
+        "autoAddDictionary" : {
+          "505" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grunt (Inferior Infiltration)",
+        "listOfOptions" : [ {
+          "optionCost" : 11.0,
+          "listOfRestrictions" : null,
+          "optionID" : 506,
+          "optionName" : "Heavy Flamethrower, Light Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Garrison Troops",
+        "unitCost" : 0.0,
+        "unitID" : 108,
+        "autoAddDictionary" : {
+          "506" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grunt (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 11.0,
+          "listOfRestrictions" : null,
+          "optionID" : 507,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Garrison Troops",
+        "unitCost" : 0.0,
+        "unitID" : 109,
+        "autoAddDictionary" : {
+          "507" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grunt Paramedic (MediKit)",
+        "listOfOptions" : [ {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 508,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Garrison Troops",
+        "unitCost" : 0.0,
+        "unitID" : 110,
+        "autoAddDictionary" : {
+          "508" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grunt Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 509,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 510,
+          "optionName" : "Rifle, Light Grenade Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Garrison Troops",
+        "unitCost" : 0.0,
+        "unitID" : 111,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Tankhunter",
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 511,
+          "optionName" : "AP Rifle, Adhesive Launcher, D-Charges, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 512,
+          "optionName" : "AP HMG, D-Charges, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 34.0,
+          "listOfRestrictions" : null,
+          "optionID" : 513,
+          "optionName" : "Portable Autocannon, D-Charges, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 514,
+          "optionName" : "Missile Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 112,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Tankhunter Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 515,
+          "optionName" : "AP Rifle, Adhesive Launcher, D-Charges, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 113,
+        "autoAddDictionary" : {
+          "515" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Minuteman",
+        "listOfOptions" : [ {
+          "optionCost" : 22.0,
+          "listOfRestrictions" : null,
+          "optionID" : 516,
+          "optionName" : "Rifle, 2 Light Flamethrowers, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 34.0,
+          "listOfRestrictions" : null,
+          "optionID" : 517,
+          "optionName" : "AP HMG, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 24.0,
+          "listOfRestrictions" : null,
+          "optionID" : 518,
+          "optionName" : "Boarding Shotgun, Grenades, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 519,
+          "optionName" : "Missile Launcher, Light Flamethrower, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 114,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Minuteman (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 520,
+          "optionName" : "Rifle, 2 Light Flamethrowers, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 115,
+        "autoAddDictionary" : {
+          "520" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Minuteman (Marksmanship L1, X-Visor)",
+        "listOfOptions" : [ {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 521,
+          "optionName" : "AP Rifle, 2 Light Flamethrowers, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 116,
+        "autoAddDictionary" : {
+          "521" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Minuteman Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 22.0,
+          "listOfRestrictions" : null,
+          "optionID" : 522,
+          "optionName" : "Rifle, 2 Light Flamethrowers, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 34.0,
+          "listOfRestrictions" : null,
+          "optionID" : 523,
+          "optionName" : "AP HMG, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 117,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Moblot",
+        "listOfOptions" : [ {
+          "optionCost" : 21.0,
+          "listOfRestrictions" : null,
+          "optionID" : 524,
+          "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 525,
+          "optionName" : "HMG, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 527,
+          "optionName" : "AP Rifle, Light Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 528,
+          "optionName" : "Boarding Shotgun, Panzerfaust, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 118,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Moblot (CH:Mimetism)",
+        "listOfOptions" : [ {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 529,
+          "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 119,
+        "autoAddDictionary" : {
+          "529" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Moblot (Infiltration)",
+        "listOfOptions" : [ {
+          "optionCost" : 26.0,
+          "listOfRestrictions" : null,
+          "optionID" : 530,
+          "optionName" : "Rifle, Light Shotgun E/Mauler, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 120,
+        "autoAddDictionary" : {
+          "530" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Moblot Engineer",
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 531,
+          "optionName" : "Rifle, Light Shotgun D-Charges, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 121,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Moblot Paramedic (MediKit)",
+        "listOfOptions" : [ {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 532,
+          "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 122,
+        "autoAddDictionary" : {
+          "532" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Moblot Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 21.0,
+          "listOfRestrictions" : null,
+          "optionID" : 533,
+          "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 534,
+          "optionName" : "HMG, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 123,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Veteran Kazak",
+        "listOfOptions" : [ {
+          "optionCost" : 37.0,
+          "listOfRestrictions" : null,
+          "optionID" : 535,
+          "optionName" : "AP Rifle, Light Flamethrower, Heavy Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 47.0,
+          "listOfRestrictions" : null,
+          "optionID" : 536,
+          "optionName" : "AP HMG, Heavy Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "2"
+          }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 537,
+          "optionName" : "Boarding Shotgun, Heavy Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 124,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Veteran Kazak Paramedic (MediKit)",
+        "listOfOptions" : [ {
+          "optionCost" : 39.0,
+          "listOfRestrictions" : null,
+          "optionID" : 538,
+          "optionName" : "AP Rife, Light Flamethrower, Heavy Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 125,
+        "autoAddDictionary" : {
+          "538" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Veteran Kazak (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 38.0,
+          "listOfRestrictions" : null,
+          "optionID" : 539,
+          "optionName" : "AP Rife, Light Flamethrower, Heavy Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 126,
+        "autoAddDictionary" : {
+          "539" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Veteran Kazak Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 37.0,
+          "listOfRestrictions" : null,
+          "optionID" : 540,
+          "optionName" : "AP Rife, Light Flamethrower, Heavy Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 47.0,
+          "listOfRestrictions" : null,
+          "optionID" : 541,
+          "optionName" : "AP HMG, Heavy Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 127,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Foxtrot",
+        "listOfOptions" : [ {
+          "optionCost" : 17.0,
+          "listOfRestrictions" : null,
+          "optionID" : 542,
+          "optionName" : "Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 19.0,
+          "listOfRestrictions" : null,
+          "optionID" : 543,
+          "optionName" : "Boarding Shotgun, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 544,
+          "optionName" : "Rifle, Light Grenade Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        }, {
+          "optionCost" : 19.0,
+          "listOfRestrictions" : null,
+          "optionID" : 545,
+          "optionName" : "Sniper Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 128,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Foxtrot (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 18.0,
+          "listOfRestrictions" : null,
+          "optionID" : 546,
+          "optionName" : "Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 129,
+        "autoAddDictionary" : {
+          "546" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Foxtrot Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 17.0,
+          "listOfRestrictions" : null,
+          "optionID" : 547,
+          "optionName" : "Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "2"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 130,
+        "autoAddDictionary" : {
+          "547" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hardcase Frontiersman",
+        "listOfOptions" : [ {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 548,
+          "optionName" : "Tactical Bow, Light Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 549,
+          "optionName" : "Tactical Bow, Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 131,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "S.A.S.",
+        "listOfOptions" : [ {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 550,
+          "optionName" : "Rifle, Pistol AP CCW & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 551,
+          "optionName" : "Boarding Shotgun, Pistol AP CCW & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 552,
+          "optionName" : "Sniper Rifle, Pistol AP CCW & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 132,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "S.A.S. (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 24.0,
+          "listOfRestrictions" : null,
+          "optionID" : 553,
+          "optionName" : "Rifle, Pistol AP CCW & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 133,
+        "autoAddDictionary" : {
+          "553" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "S.A.S. Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 554,
+          "optionName" : "Rifle, Pistol AP CCW & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "2"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 134,
+        "autoAddDictionary" : {
+          "554" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Scout",
+        "listOfOptions" : [ {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 555,
+          "optionName" : "Ojotnik, D-Charges, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 556,
+          "optionName" : "Ojotnik, D-Charges, E/Mauler, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 557,
+          "optionName" : "Boarding Shotgun, D-Charges, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 558,
+          "optionName" : "AP Sniper Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 135,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Scout (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 559,
+          "optionName" : "Ojotnik, D-Charges, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 137,
+        "autoAddDictionary" : {
+          "559" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Scout Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 560,
+          "optionName" : "Ojotnik, D-Charges, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 138,
+        "autoAddDictionary" : {
+          "560" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Highlander",
+        "listOfOptions" : [ {
+          "optionCost" : 11.0,
+          "listOfRestrictions" : null,
+          "optionID" : 561,
+          "optionName" : "Rifle, Smoke Grenades, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 562,
+          "optionName" : "Chain Rifle, Smoke Grenades, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 13.0,
+          "listOfRestrictions" : null,
+          "optionID" : 564,
+          "optionName" : "Boarding Shotgun, Smoke Grenades, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 139,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Irmandinho",
+        "listOfOptions" : [ {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 565,
+          "optionName" : "Rifle, D-Charges, Smoke Grenades, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 566,
+          "optionName" : "Chain Rifle, D-Charges, Smoke Grenades, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 567,
+          "optionName" : "Boarding Shotgun, D-Charges, Smoke Grenades, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 140,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Handler",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 570,
+          "optionName" : "Rifle, Smoke Light Grenade Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 141,
+        "autoAddDictionary" : {
+          "570" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Antipode",
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 571,
+          "optionName" : "AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 142,
+        "autoAddDictionary" : {
+          "571" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Dog-Warrior",
+        "listOfOptions" : [ {
+          "optionCost" : 27.0,
+          "listOfRestrictions" : null,
+          "optionID" : 572,
+          "optionName" : "2 Chain Rifles, Grenades, Smoke Grenades & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 143,
+        "autoAddDictionary" : {
+          "572" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Kazak Doktor",
+        "listOfOptions" : [ {
+          "optionCost" : 13.0,
+          "listOfRestrictions" : null,
+          "optionID" : 573,
+          "optionName" : "Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 144,
+        "autoAddDictionary" : {
+          "573" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Uxia Mc Neill",
+        "listOfOptions" : [ {
+          "optionCost" : 28.0,
+          "listOfRestrictions" : null,
+          "optionID" : 574,
+          "optionName" : "Boarding Shotgun, Grenades, Smoke Grenades, Pistol, AP CCW & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Characters",
+        "unitCost" : 0.0,
+        "unitID" : 145,
+        "autoAddDictionary" : {
+          "574" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Van Zant",
+        "listOfOptions" : [ {
+          "optionCost" : 37.0,
+          "listOfRestrictions" : null,
+          "optionID" : 575,
+          "optionName" : "AP Rifle, Heavy Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Characters",
+        "unitCost" : 0.0,
+        "unitID" : 146,
+        "autoAddDictionary" : {
+          "575" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Van Zant (Executive Order)",
+        "listOfOptions" : [ {
+          "optionCost" : 38.0,
+          "listOfRestrictions" : null,
+          "optionID" : 576,
+          "optionName" : "AP Rifle, Heavy Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Characters",
+        "unitCost" : 0.0,
+        "unitID" : 147,
+        "autoAddDictionary" : {
+          "576" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Antipode Assault Pack",
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 569,
+          "optionName" : "3 Antipodes & 1 Handler",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 568,
+        "autoAddDictionary" : {
+          "569" : "1"
+        },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Ariadna",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Line Troops", "Elite Troops", "Veteran Troops", "Headquarters Troops", "Mechanized Troops", "Spec. Trained Troops", "Support Troops", "Characters", "Garrison Troops" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ "Special Weapon Cost" ]
+  } ]
+}

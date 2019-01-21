@@ -1,0 +1,244 @@
+{
+  "games" : [ {
+    "gameName" : "Infinity",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Yuan Yuan",
+        "listOfOptions" : [ {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 828,
+          "optionName" : "Chain Rifle, Smoke Grenades, Pistol & Shock CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 829,
+          "optionName" : "Chain Rifle, Smoke Grenades, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 9.0,
+          "listOfRestrictions" : null,
+          "optionID" : 830,
+          "optionName" : "Chain Rifle, Smoke Grenades, Pistol & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 831,
+          "optionName" : "Boarding Shotgun, Smoke Grenades, Pistol & Shock CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 832,
+          "optionName" : "Rifle, Smoke Grenades, Pistol & Shock CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mercenary Troops",
+        "unitCost" : 0.0,
+        "unitID" : 293,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Bounty Hunter",
+        "listOfOptions" : [ {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 833,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 13.0,
+          "listOfRestrictions" : null,
+          "optionID" : 834,
+          "optionName" : "Boarding Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 19.0,
+          "listOfRestrictions" : null,
+          "optionID" : 835,
+          "optionName" : "Sniper Rifle, 2 Breaker Pistols & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 836,
+          "optionName" : "Spitfire, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mercenary Troops",
+        "unitCost" : 0.0,
+        "unitID" : 294,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Wardriver Hacker (Defensive Hacking Device)",
+        "listOfOptions" : [ {
+          "optionCost" : 17.0,
+          "listOfRestrictions" : null,
+          "optionID" : 838,
+          "optionName" : "Boarding Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mercenary Troops",
+        "unitCost" : 0.0,
+        "unitID" : 295,
+        "autoAddDictionary" : {
+          "838" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Wardriver Hacker (Hacking Device)",
+        "listOfOptions" : [ {
+          "optionCost" : 19.0,
+          "listOfRestrictions" : null,
+          "optionID" : 839,
+          "optionName" : "Boarding Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mercenary Troops",
+        "unitCost" : 0.0,
+        "unitID" : 296,
+        "autoAddDictionary" : {
+          "839" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "CSU",
+        "listOfOptions" : [ {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 840,
+          "optionName" : "Breaker Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 841,
+          "optionName" : "Combi Rifle, Nanopulser, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 11.0,
+          "listOfRestrictions" : null,
+          "optionID" : 842,
+          "optionName" : "Boarding Shotgun, Nanopulser, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mercenary Troops",
+        "unitCost" : 0.0,
+        "unitID" : 297,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Anaconda",
+        "listOfOptions" : [ {
+          "optionCost" : 62.0,
+          "listOfRestrictions" : null,
+          "optionID" : 843,
+          "optionName" : "Spitfire, Light Flamethrower, Panzerfaust & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "2"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mercenary Troops",
+        "unitCost" : 0.0,
+        "unitID" : 298,
+        "autoAddDictionary" : {
+          "843" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Operator",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 844,
+          "optionName" : "Spitfire, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mercenary Troops",
+        "unitCost" : 0.0,
+        "unitID" : 299,
+        "autoAddDictionary" : {
+          "844" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Saito Togan",
+        "listOfOptions" : [ {
+          "optionCost" : 39.0,
+          "listOfRestrictions" : null,
+          "optionID" : 845,
+          "optionName" : "Combi Rifle, Smoke Grenades, Pistol, EXP CCW & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mercenary Troops",
+        "unitCost" : 0.0,
+        "unitID" : 300,
+        "autoAddDictionary" : {
+          "845" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Miyamoto Mushashi",
+        "listOfOptions" : [ {
+          "optionCost" : 24.0,
+          "listOfRestrictions" : null,
+          "optionID" : 846,
+          "optionName" : "Chain Rifle, Flash Pulse, Pistol, AP CCW & EXP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mercenary Troops",
+        "unitCost" : 0.0,
+        "unitID" : 301,
+        "autoAddDictionary" : {
+          "846" : "1"
+        },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Mercenaries",
+      "armyCategories" : [ "Mercenary Troops" ]
+    } ],
+    "gameCategories" : [ "Line Troops", "Elite Troops", "Veteran Troops", "Headquarters Troops", "Mechanized Troops", "Spec. Trained Troops", "Support Troops", "Characters", "Garrison Troops" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ "Special Weapon Cost" ]
+  } ]
+}

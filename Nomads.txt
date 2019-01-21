@@ -1,0 +1,1278 @@
+{
+  "games" : [ {
+    "gameName" : "Infinity",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Alguacil",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 661,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 18.0,
+          "listOfRestrictions" : null,
+          "optionID" : 662,
+          "optionName" : "HMG, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 663,
+          "optionName" : "Combi Rifle, Light Grenade Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        }, {
+          "optionCost" : 18.0,
+          "listOfRestrictions" : null,
+          "optionID" : 664,
+          "optionName" : "MULTI Sniper Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 665,
+          "optionName" : "Missile Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 199,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Alguacil Hacker (Hacking Device)",
+        "listOfOptions" : [ {
+          "optionCost" : 18.0,
+          "listOfRestrictions" : null,
+          "optionID" : 666,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 200,
+        "autoAddDictionary" : {
+          "666" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Alguacil (Forward Observer, Deployable Repeater)",
+        "listOfOptions" : [ {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 667,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 201,
+        "autoAddDictionary" : {
+          "667" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Alguacil Paramedic (MediKit)",
+        "listOfOptions" : [ {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 668,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 202,
+        "autoAddDictionary" : {
+          "668" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Alguacil Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 669,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 203,
+        "autoAddDictionary" : {
+          "669" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grenzer",
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 670,
+          "optionName" : "Combi Rifle, Light Flamethrower, Pistol, Breaker Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 672,
+          "optionName" : "Boarding Shotgun, Pistol, Breaker Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 32.0,
+          "listOfRestrictions" : null,
+          "optionID" : 673,
+          "optionName" : "MULTI Sniper Rifle, Pistol, Breaker Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 29.0,
+          "listOfRestrictions" : null,
+          "optionID" : 674,
+          "optionName" : "Missile Launcher, Pistol, Breaker Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 675,
+          "optionName" : "Spitfire, Pistol, Breaker Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 204,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grenzer (Forward Observer, Sensor)",
+        "listOfOptions" : [ {
+          "optionCost" : 27.0,
+          "listOfRestrictions" : null,
+          "optionID" : 676,
+          "optionName" : "Combi Rifle, Light Flamethrower, Pistol, Breaker Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 205,
+        "autoAddDictionary" : {
+          "676" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grenzer Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 677,
+          "optionName" : "Combi Rifle, Light Flamethrower, Pistol, Breaker Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 206,
+        "autoAddDictionary" : {
+          "677" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hellcat",
+        "listOfOptions" : [ {
+          "optionCost" : 22.0,
+          "listOfRestrictions" : null,
+          "optionID" : 678,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 31.0,
+          "listOfRestrictions" : null,
+          "optionID" : 679,
+          "optionName" : "HMG, E/Mauler, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 21.0,
+          "listOfRestrictions" : null,
+          "optionID" : 680,
+          "optionName" : "Boarding Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 681,
+          "optionName" : "Combi Rifle, Adhesive Launcher, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        }, {
+          "optionCost" : 28.0,
+          "listOfRestrictions" : null,
+          "optionID" : 682,
+          "optionName" : "Spitfire, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 207,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hellcat Hacker (Assault Hacking Device)",
+        "listOfOptions" : [ {
+          "optionCost" : 28.0,
+          "listOfRestrictions" : null,
+          "optionID" : 683,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 208,
+        "autoAddDictionary" : {
+          "683" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hellcat (Deployable Repeater)",
+        "listOfOptions" : [ {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 684,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 209,
+        "autoAddDictionary" : {
+          "684" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hellcat Paramedic (MediKit)",
+        "listOfOptions" : [ {
+          "optionCost" : 24.0,
+          "listOfRestrictions" : null,
+          "optionID" : 685,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 210,
+        "autoAddDictionary" : {
+          "685" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hellcat Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 22.0,
+          "listOfRestrictions" : null,
+          "optionID" : 686,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 211,
+        "autoAddDictionary" : {
+          "686" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Intruder",
+        "listOfOptions" : [ {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 687,
+          "optionName" : "Combi Rifle, Light Flamethrower, Grenades, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 41.0,
+          "listOfRestrictions" : null,
+          "optionID" : 688,
+          "optionName" : "HMG, Grenades, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 36.0,
+          "listOfRestrictions" : null,
+          "optionID" : 689,
+          "optionName" : "Combi Rifle, Light Flamethrower, Adhesive Launcher, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 212,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Intruder Hacker (Hacking Device)",
+        "listOfOptions" : [ {
+          "optionCost" : 43.0,
+          "listOfRestrictions" : null,
+          "optionID" : 690,
+          "optionName" : "Combi Rifle, Light Flamethrower, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 213,
+        "autoAddDictionary" : {
+          "690" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Intruder Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 691,
+          "optionName" : "Combi Rifle, Light Flamethrower, Grenades, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 214,
+        "autoAddDictionary" : {
+          "691" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Intruder (X-Visor)",
+        "listOfOptions" : [ {
+          "optionCost" : 43.0,
+          "listOfRestrictions" : null,
+          "optionID" : 692,
+          "optionName" : "MULTI Sniper Rifle, Pistol & CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 215,
+        "autoAddDictionary" : {
+          "692" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Reverend Moira",
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 693,
+          "optionName" : "MULTI Rifle, Pistol & Shock CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 694,
+          "optionName" : "MULTI Rifle, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 34.0,
+          "listOfRestrictions" : null,
+          "optionID" : 695,
+          "optionName" : "HMG, Pistol & Shock CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 34.0,
+          "listOfRestrictions" : null,
+          "optionID" : 696,
+          "optionName" : "MULTI Sniper Rifle, Pistol & Shock CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 34.0,
+          "listOfRestrictions" : null,
+          "optionID" : 697,
+          "optionName" : "MULTI Rifle, E/M Light Grenade Launcher, Pistol & Shock CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 216,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Reverend Moira Hacker (Assault Hacking Device)",
+        "listOfOptions" : [ {
+          "optionCost" : 36.0,
+          "listOfRestrictions" : null,
+          "optionID" : 698,
+          "optionName" : "MULTI Rifle, Pistol & Shock CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 217,
+        "autoAddDictionary" : {
+          "698" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Reverend Moira Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 699,
+          "optionName" : "MULTI Rifle, Pistol & Shock CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 218,
+        "autoAddDictionary" : {
+          "699" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Reverend Healer",
+        "listOfOptions" : [ {
+          "optionCost" : 33.0,
+          "listOfRestrictions" : null,
+          "optionID" : 700,
+          "optionName" : "Combi Rifle, Nanopulser, Pistol & EXP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 37.0,
+          "listOfRestrictions" : null,
+          "optionID" : 701,
+          "optionName" : "MULTI Rifle, Nanopulser, Pistol & EXP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 32.0,
+          "listOfRestrictions" : null,
+          "optionID" : 702,
+          "optionName" : "Boarding Shotgun, Nanopulser, Pistol & EXP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elite Troops",
+        "unitCost" : 0.0,
+        "unitID" : 219,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mobile Brigada",
+        "listOfOptions" : [ {
+          "optionCost" : 39.0,
+          "listOfRestrictions" : null,
+          "optionID" : 703,
+          "optionName" : "MULTI Rifle, Light Flamethrower, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 42.0,
+          "listOfRestrictions" : null,
+          "optionID" : 704,
+          "optionName" : "HMG, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "2"
+          }
+        }, {
+          "optionCost" : 33.0,
+          "listOfRestrictions" : null,
+          "optionID" : 705,
+          "optionName" : "Boarding Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 34.0,
+          "listOfRestrictions" : null,
+          "optionID" : 706,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 37.0,
+          "listOfRestrictions" : null,
+          "optionID" : 707,
+          "optionName" : "Combi Rifle, 1 TinBot B (Deflector L2), Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 220,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mobile Brigada Lieutenant",
+        "listOfOptions" : [ {
+          "optionCost" : 39.0,
+          "listOfRestrictions" : null,
+          "optionID" : 708,
+          "optionName" : "MULTI Rifle, Light Flamethrower, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Veteran Troops",
+        "unitCost" : 0.0,
+        "unitID" : 221,
+        "autoAddDictionary" : {
+          "708" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Lizard",
+        "listOfOptions" : [ {
+          "optionCost" : 87.0,
+          "listOfRestrictions" : null,
+          "optionID" : 709,
+          "optionName" : "MULTI HMG & Heavy Grenade Launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "2.5"
+          }
+        }, {
+          "optionCost" : 87.0,
+          "listOfRestrictions" : null,
+          "optionID" : 710,
+          "optionName" : "MULTI HMG & Heavy Flamethrower",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "2"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mechanized Troops",
+        "unitCost" : 0.0,
+        "unitID" : 222,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Lizard Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 711,
+          "optionName" : "Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Mechanized Troops",
+        "unitCost" : 0.0,
+        "unitID" : 223,
+        "autoAddDictionary" : {
+          "711" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Bandit",
+        "listOfOptions" : [ {
+          "optionCost" : 27.0,
+          "listOfRestrictions" : null,
+          "optionID" : 712,
+          "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol  & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 26.0,
+          "listOfRestrictions" : null,
+          "optionID" : 713,
+          "optionName" : "Boarding Shotgun, E/Mauler, Pistol  & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 22.0,
+          "listOfRestrictions" : null,
+          "optionID" : 714,
+          "optionName" : "Light Shotgun, Adhesive Launcher, Pistol  & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 224,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Bandit Hacker (Assault Hacking Device)",
+        "listOfOptions" : [ {
+          "optionCost" : 28.0,
+          "listOfRestrictions" : null,
+          "optionID" : 715,
+          "optionName" : "Light Shotgun, Adhesive Launcher, Pistol  & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 225,
+        "autoAddDictionary" : {
+          "715" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Bandit (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 23.0,
+          "listOfRestrictions" : null,
+          "optionID" : 716,
+          "optionName" : "Light Shotgun, Adhesive Launcher, Pistol  & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 226,
+        "autoAddDictionary" : {
+          "716" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Bandit (Deployable Repeater)",
+        "listOfOptions" : [ {
+          "optionCost" : 28.0,
+          "listOfRestrictions" : null,
+          "optionID" : 717,
+          "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol  & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 227,
+        "autoAddDictionary" : {
+          "717" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Zero",
+        "listOfOptions" : [ {
+          "optionCost" : 18.0,
+          "listOfRestrictions" : null,
+          "optionID" : 718,
+          "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 26.0,
+          "listOfRestrictions" : null,
+          "optionID" : 719,
+          "optionName" : "MULTI Sniper Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        }, {
+          "optionCost" : 17.0,
+          "listOfRestrictions" : null,
+          "optionID" : 720,
+          "optionName" : "Boarding Shotgun, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 228,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Zero Hacker (Assault Hacking Device)",
+        "listOfOptions" : [ {
+          "optionCost" : 24.0,
+          "listOfRestrictions" : null,
+          "optionID" : 721,
+          "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 229,
+        "autoAddDictionary" : {
+          "721" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Zero (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 19.0,
+          "listOfRestrictions" : null,
+          "optionID" : 722,
+          "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 230,
+        "autoAddDictionary" : {
+          "722" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Zero (Deployable Repeater)",
+        "listOfOptions" : [ {
+          "optionCost" : 19.0,
+          "listOfRestrictions" : null,
+          "optionID" : 723,
+          "optionName" : "Combi Rifle, E?Mauler, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 231,
+        "autoAddDictionary" : {
+          "723" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Spektr",
+        "listOfOptions" : [ {
+          "optionCost" : 31.0,
+          "listOfRestrictions" : null,
+          "optionID" : 724,
+          "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 725,
+          "optionName" : "Boarding Shotgun, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 39.0,
+          "listOfRestrictions" : null,
+          "optionID" : 726,
+          "optionName" : "MULTI Sniper Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 232,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Spektr Hacker (Assault Hacking Device)",
+        "listOfOptions" : [ {
+          "optionCost" : 36.0,
+          "listOfRestrictions" : null,
+          "optionID" : 729,
+          "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 233,
+        "autoAddDictionary" : {
+          "729" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Spektr (Forward Observer)",
+        "listOfOptions" : [ {
+          "optionCost" : 32.0,
+          "listOfRestrictions" : null,
+          "optionID" : 728,
+          "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 234,
+        "autoAddDictionary" : {
+          "728" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Spektr (Deployable Repeater)",
+        "listOfOptions" : [ {
+          "optionCost" : 32.0,
+          "listOfRestrictions" : null,
+          "optionID" : 730,
+          "optionName" : "Combi Rifle, E/Mauler, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Spec. Trained Troops",
+        "unitCost" : 0.0,
+        "unitID" : 235,
+        "autoAddDictionary" : {
+          "730" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Morlock",
+        "listOfOptions" : [ {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 731,
+          "optionName" : "Combi Rifle, Smoke Grenades, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 732,
+          "optionName" : "Chain Rifle, Smoke Grenades, Pistol & E/M CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 733,
+          "optionName" : "Chain Rifle, Smoke Grenades, Pistol & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 13.0,
+          "listOfRestrictions" : null,
+          "optionID" : 734,
+          "optionName" : "Boarding Shotgun, Smoke Grenades, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 736,
+          "optionName" : "Combi Rifle, Smoke Light Grenade Launcher, Pistol & AP CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 236,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Jaguar",
+        "listOfOptions" : [ {
+          "optionCost" : 13.0,
+          "listOfRestrictions" : null,
+          "optionID" : 737,
+          "optionName" : "Light Shotgun, Smoke Grenades, Pistol & E/M CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 738,
+          "optionName" : "Chain Rifle, Smoke Grenades, Pistol & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 13.0,
+          "listOfRestrictions" : null,
+          "optionID" : 739,
+          "optionName" : "Adhesive Launcher, Panzerfaust, Pistol & DA CCW",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Line Troops",
+        "unitCost" : 0.0,
+        "unitID" : 237,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Daktari",
+        "listOfOptions" : [ {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 740,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 238,
+        "autoAddDictionary" : {
+          "740" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Clockmaker",
+        "listOfOptions" : [ {
+          "optionCost" : 18.0,
+          "listOfRestrictions" : null,
+          "optionID" : 741,
+          "optionName" : "Combi Rifle, D-Charges, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 239,
+        "autoAddDictionary" : {
+          "741" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Interventor Hacker (Hacking Device Plus)",
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 742,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        }, {
+          "optionCost" : 27.0,
+          "listOfRestrictions" : null,
+          "optionID" : 743,
+          "optionName" : "Combi Rifle, 1 FastPanda, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        }, {
+          "optionCost" : 24.0,
+          "listOfRestrictions" : null,
+          "optionID" : 744,
+          "optionName" : "Boarding Shotgun, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        }, {
+          "optionCost" : 26.0,
+          "listOfRestrictions" : null,
+          "optionID" : 745,
+          "optionName" : "Boarding Shotgun, 1 FastPanda Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 240,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Interventor Lieutenant (Hacking Device Plus)",
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 746,
+          "optionName" : "Combi Rifle, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        }, {
+          "optionCost" : 27.0,
+          "listOfRestrictions" : null,
+          "optionID" : 747,
+          "optionName" : "Combi Rifle, 1 FastPanda, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "0.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 241,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Stempler Zond",
+        "listOfOptions" : [ {
+          "optionCost" : 17.0,
+          "listOfRestrictions" : null,
+          "optionID" : 748,
+          "optionName" : "Combi Rifle, Sniffer & Electric Pulse",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 242,
+        "autoAddDictionary" : {
+          "748" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Reaktion Zond",
+        "listOfOptions" : [ {
+          "optionCost" : 26.0,
+          "listOfRestrictions" : null,
+          "optionID" : 749,
+          "optionName" : "HMG & Electric Pulse",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 243,
+        "autoAddDictionary" : {
+          "749" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Vertigo Zond",
+        "listOfOptions" : [ {
+          "optionCost" : 18.0,
+          "listOfRestrictions" : null,
+          "optionID" : 750,
+          "optionName" : "Smart Missile Launcher & Electric Pulse",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1.5"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 244,
+        "autoAddDictionary" : {
+          "750" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Meteor Zond",
+        "listOfOptions" : [ {
+          "optionCost" : 21.0,
+          "listOfRestrictions" : null,
+          "optionID" : 751,
+          "optionName" : "Combi Rifle & Electric Pulse",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : {
+            "Special Weapon Cost" : "1"
+          }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 245,
+        "autoAddDictionary" : {
+          "751" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Transductor Zond",
+        "listOfOptions" : [ {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 752,
+          "optionName" : "Flash Pulse, Sniffer & Electric Pulse",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Support Troops",
+        "unitCost" : 0.0,
+        "unitID" : 246,
+        "autoAddDictionary" : {
+          "752" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Special Clockmakers Team",
+        "listOfOptions" : [ {
+          "optionCost" : 47.0,
+          "listOfRestrictions" : null,
+          "optionID" : 753,
+          "optionName" : "Zoe & N-Well",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Characters",
+        "unitCost" : 0.0,
+        "unitID" : 247,
+        "autoAddDictionary" : {
+          "753" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Zoe (Hacking Device. Upgrade:Stop!)",
+        "listOfOptions" : [ {
+          "optionCost" : 28.0,
+          "listOfRestrictions" : null,
+          "optionID" : 754,
+          "optionName" : "Combi Rifle, D-Charges, Pistol & Knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Characters",
+        "unitCost" : 0.0,
+        "unitID" : 248,
+        "autoAddDictionary" : {
+          "754" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "N-Well",
+        "listOfOptions" : [ {
+          "optionCost" : 19.0,
+          "listOfRestrictions" : null,
+          "optionID" : 755,
+          "optionName" : "Combi Rifle & Electric Pulse",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Characters",
+        "unitCost" : 0.0,
+        "unitID" : 249,
+        "autoAddDictionary" : {
+          "755" : "1"
+        },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Nomads",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Line Troops", "Elite Troops", "Veteran Troops", "Headquarters Troops", "Mechanized Troops", "Spec. Trained Troops", "Support Troops", "Characters", "Garrison Troops" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ "Special Weapon Cost" ]
+  } ]
+}
