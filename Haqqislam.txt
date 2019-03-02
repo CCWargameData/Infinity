@@ -11,6 +11,7 @@
           "optionID" : 577,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -18,6 +19,7 @@
           "optionID" : 578,
           "optionName" : "HMG, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -27,6 +29,7 @@
           "optionID" : 579,
           "optionName" : "Rifle, Light Grenade Launcher, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -36,6 +39,7 @@
           "optionID" : 580,
           "optionName" : "Missile Launcher, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -45,6 +49,7 @@
           "optionID" : 581,
           "optionName" : "Sniper Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -54,6 +59,7 @@
           "optionID" : 582,
           "optionName" : "Rifle, Light Shotgun, Panzerfaust, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -63,6 +69,7 @@
         "unitCost" : 0.0,
         "unitID" : 148,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ghulam Hacker (Hacking Device)",
@@ -72,6 +79,7 @@
           "optionID" : 583,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -83,6 +91,7 @@
         "autoAddDictionary" : {
           "583" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ghulam Doctor Plus (MediKit)",
@@ -92,6 +101,7 @@
           "optionID" : 584,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -101,6 +111,7 @@
         "autoAddDictionary" : {
           "584" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ghulam (Forward Observer)",
@@ -110,6 +121,7 @@
           "optionID" : 585,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -119,6 +131,7 @@
         "autoAddDictionary" : {
           "585" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ghulam (Deployable Repeater)",
@@ -128,6 +141,7 @@
           "optionID" : 586,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -137,6 +151,7 @@
         "autoAddDictionary" : {
           "586" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ghulam Lieutenant",
@@ -146,6 +161,7 @@
           "optionID" : 587,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -153,6 +169,7 @@
           "optionID" : 588,
           "optionName" : "HMG, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -162,6 +179,7 @@
           "optionID" : 589,
           "optionName" : "Missile Launcher, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -171,6 +189,7 @@
         "unitCost" : 0.0,
         "unitID" : 153,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Naffatun",
@@ -180,6 +199,7 @@
           "optionID" : 590,
           "optionName" : "Rifle, Light Flamethrower, Grenades, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 13.0,
@@ -187,6 +207,7 @@
           "optionID" : 591,
           "optionName" : "Rifle, Heavy Flamethrower, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -194,6 +215,7 @@
         "unitCost" : 0.0,
         "unitID" : 154,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Naffatun Lieutenant",
@@ -203,6 +225,7 @@
           "optionID" : 592,
           "optionName" : "Rifle, Light Flamethrower, Grenades, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -212,6 +235,7 @@
         "autoAddDictionary" : {
           "592" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Khawarij",
@@ -221,6 +245,7 @@
           "optionID" : 593,
           "optionName" : "Rifle, Light Shotgun, Grenades, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 27.0,
@@ -228,6 +253,7 @@
           "optionID" : 594,
           "optionName" : "Boarding Shotgun, Panzerfaust, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 31.0,
@@ -235,6 +261,7 @@
           "optionID" : 595,
           "optionName" : "Spitfire, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -244,6 +271,7 @@
         "unitCost" : 0.0,
         "unitID" : 156,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Khawarij Doctor Plus (MediKit)",
@@ -253,6 +281,7 @@
           "optionID" : 596,
           "optionName" : "Boarding Shotgun, Grenades, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -262,6 +291,7 @@
         "autoAddDictionary" : {
           "596" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Khawarij Lieutenant",
@@ -271,6 +301,7 @@
           "optionID" : 597,
           "optionName" : "Rifle, Light Shotgun, Grenades, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 31.0,
@@ -278,6 +309,7 @@
           "optionID" : 598,
           "optionName" : "Spitfire, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -287,6 +319,7 @@
         "unitCost" : 0.0,
         "unitID" : 158,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Govad",
@@ -296,6 +329,7 @@
           "optionID" : 599,
           "optionName" : "Rifle, Light Shotgun, Breaker Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 29.0,
@@ -303,6 +337,7 @@
           "optionID" : 600,
           "optionName" : "HMG, Breaker Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -312,6 +347,7 @@
           "optionID" : 601,
           "optionName" : "Boarding Shotgun, Breaker Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -319,6 +355,7 @@
           "optionID" : 602,
           "optionName" : "Sniper Rifle, Breaker Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -328,6 +365,7 @@
           "optionID" : 603,
           "optionName" : "Missile Launcher, Light Shotgun, Breaker Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -337,6 +375,7 @@
         "unitCost" : 0.0,
         "unitID" : 159,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Govad Hacker (Hacking Device)",
@@ -346,6 +385,7 @@
           "optionID" : 604,
           "optionName" : "Boarding Shotgun, Breaker Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -357,6 +397,7 @@
         "autoAddDictionary" : {
           "604" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Govad Lieutenant",
@@ -366,6 +407,7 @@
           "optionID" : 605,
           "optionName" : "Rifle, Light Shotgun, Breaker Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -375,6 +417,7 @@
         "autoAddDictionary" : {
           "605" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zhayedan (Marksmanship L2)",
@@ -384,6 +427,7 @@
           "optionID" : 606,
           "optionName" : "Breaker Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 31.0,
@@ -391,6 +435,7 @@
           "optionID" : 607,
           "optionName" : "Sniper Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -400,6 +445,7 @@
         "unitCost" : 0.0,
         "unitID" : 162,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zhayedan",
@@ -409,6 +455,7 @@
           "optionID" : 608,
           "optionName" : "HMG, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -418,6 +465,7 @@
           "optionID" : 609,
           "optionName" : "Missile Launcher, Nimbus Grenades, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -427,6 +475,7 @@
         "unitCost" : 0.0,
         "unitID" : 163,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zhayedan Doctor Plus (MediKit)",
@@ -436,6 +485,7 @@
           "optionID" : 610,
           "optionName" : "Boarding Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -445,6 +495,7 @@
         "autoAddDictionary" : {
           "610" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zhayedan Lieutenant",
@@ -454,6 +505,7 @@
           "optionID" : 611,
           "optionName" : "HMG, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -465,6 +517,7 @@
         "autoAddDictionary" : {
           "611" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zhayedan Lieutenant (Marksmanship L2)",
@@ -474,6 +527,7 @@
           "optionID" : 612,
           "optionName" : "Breaker Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -483,6 +537,7 @@
         "autoAddDictionary" : {
           "612" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Djanbazan",
@@ -492,6 +547,7 @@
           "optionID" : 613,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -499,6 +555,7 @@
           "optionID" : 614,
           "optionName" : "HMG, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -508,6 +565,7 @@
           "optionID" : 615,
           "optionName" : "Sniper Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -517,6 +575,7 @@
         "unitCost" : 0.0,
         "unitID" : 167,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Djanbazan Hacker (Hacking Device)",
@@ -526,6 +585,7 @@
           "optionID" : 616,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -537,6 +597,7 @@
         "autoAddDictionary" : {
           "616" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Djanbazan Doctor Plus (MediKit)",
@@ -546,6 +607,7 @@
           "optionID" : 617,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -555,6 +617,7 @@
         "autoAddDictionary" : {
           "617" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Djanbazan Lieutenant",
@@ -564,6 +627,7 @@
           "optionID" : 618,
           "optionName" : "Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -575,6 +639,7 @@
         "autoAddDictionary" : {
           "618" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ragik",
@@ -584,6 +649,7 @@
           "optionID" : 619,
           "optionName" : "Rifle, Light Shotgun, Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -591,6 +657,7 @@
           "optionID" : 620,
           "optionName" : "Boarding Shotgun, Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 32.0,
@@ -598,6 +665,7 @@
           "optionID" : 621,
           "optionName" : "Spitfire, Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -607,6 +675,7 @@
         "unitCost" : 0.0,
         "unitID" : 172,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ragik Hacker (Assault Hacking Device)",
@@ -616,6 +685,7 @@
           "optionID" : 622,
           "optionName" : "Rifle, Light Shotgun, Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -627,6 +697,7 @@
         "autoAddDictionary" : {
           "622" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Janissary",
@@ -636,6 +707,7 @@
           "optionID" : 623,
           "optionName" : "AP Rifle, Light Shotgun, Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 37.0,
@@ -643,6 +715,7 @@
           "optionID" : 624,
           "optionName" : "AP Rifle, Light Shotgun, 1 TinBot A (Deflector L1) Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -652,6 +725,7 @@
           "optionID" : 625,
           "optionName" : "HMG, Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -661,6 +735,7 @@
           "optionID" : 626,
           "optionName" : "Boarding Shotgun, Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -668,6 +743,7 @@
         "unitCost" : 0.0,
         "unitID" : 174,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Janissary Akbar Doctor (MediKit)",
@@ -677,6 +753,7 @@
           "optionID" : 627,
           "optionName" : "AP Rifle, Light Shotgun, Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -686,6 +763,7 @@
         "autoAddDictionary" : {
           "627" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Janissary Lieutenant",
@@ -695,6 +773,7 @@
           "optionID" : 628,
           "optionName" : "AP Rifle, Light Shotgun, Pistol & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -706,6 +785,7 @@
         "autoAddDictionary" : {
           "628" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Maghariba",
@@ -715,6 +795,7 @@
           "optionID" : 630,
           "optionName" : "MULTI HMG & Heavy Flamethrower",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -724,6 +805,7 @@
           "optionID" : 631,
           "optionName" : "MULTI HMG & 2 Heavy Pistols",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -733,6 +815,7 @@
         "unitCost" : 0.0,
         "unitID" : 177,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Maghariba (360 visor)",
@@ -742,6 +825,7 @@
           "optionID" : 632,
           "optionName" : "MULTI HMG & Heavy Flamethrower",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -753,6 +837,7 @@
         "autoAddDictionary" : {
           "632" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Maghariba Pilot",
@@ -762,6 +847,7 @@
           "optionID" : 633,
           "optionName" : "Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -771,6 +857,7 @@
         "autoAddDictionary" : {
           "633" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hanzakut (Deployable Repeater)",
@@ -780,6 +867,7 @@
           "optionID" : 634,
           "optionName" : "Rifle, Light Grenade Launcher, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -791,6 +879,7 @@
         "autoAddDictionary" : {
           "634" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hanzakut (Forward Observer, Deployable Repeater)",
@@ -800,6 +889,7 @@
           "optionID" : 635,
           "optionName" : "Rifle, Light Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -809,6 +899,7 @@
         "autoAddDictionary" : {
           "635" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hanzakut",
@@ -818,6 +909,7 @@
           "optionID" : 636,
           "optionName" : "Sniper Rifle, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -829,6 +921,7 @@
         "autoAddDictionary" : {
           "636" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tuareg",
@@ -838,6 +931,7 @@
           "optionID" : 637,
           "optionName" : "Rifle, Light Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 28.0,
@@ -845,6 +939,7 @@
           "optionID" : 638,
           "optionName" : "Boarding Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 44.0,
@@ -852,6 +947,7 @@
           "optionID" : 639,
           "optionName" : "Sniper Rifle, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -861,6 +957,7 @@
         "unitCost" : 0.0,
         "unitID" : 183,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tuareg Hacker (Assault Hacking Device)",
@@ -870,6 +967,7 @@
           "optionID" : 640,
           "optionName" : "Rifle, Light Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -881,6 +979,7 @@
         "autoAddDictionary" : {
           "640" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tuareg Doctor Plus (MediKit)",
@@ -890,6 +989,7 @@
           "optionID" : 641,
           "optionName" : "Rifle, Light Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -899,6 +999,7 @@
         "autoAddDictionary" : {
           "641" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Fiday",
@@ -908,6 +1009,7 @@
           "optionID" : 642,
           "optionName" : "Rifle, Light Shotgun, Smoke Grenades, Pistol, DA CCW & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -915,6 +1017,7 @@
           "optionID" : 643,
           "optionName" : "Rifle, Light Shotgun, Smoke Grenades, Pistol, AP CCW & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -922,6 +1025,7 @@
         "unitCost" : 0.0,
         "unitID" : 186,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Kum",
@@ -931,6 +1035,7 @@
           "optionID" : 644,
           "optionName" : "Right, Light Shotgun, Smoke Grenades, Pistol & Shock CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -938,6 +1043,7 @@
           "optionID" : 645,
           "optionName" : "Chain Rifle, Smoke Grenades, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
@@ -945,6 +1051,7 @@
           "optionID" : 646,
           "optionName" : "Light Shotgun, Smoke Grenades, Pistol & E/M CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -952,6 +1059,7 @@
         "unitCost" : 0.0,
         "unitID" : 187,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Najjarun Engineer",
@@ -961,6 +1069,7 @@
           "optionID" : 647,
           "optionName" : "Rifle, Light Shotgun, D-Charges, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -970,6 +1079,7 @@
         "autoAddDictionary" : {
           "647" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rafiq Remote",
@@ -979,6 +1089,7 @@
           "optionID" : 648,
           "optionName" : "Rifle, Light Shotgun, Sniffer & Electric Pusle",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -988,6 +1099,7 @@
         "autoAddDictionary" : {
           "648" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shihab Remote",
@@ -997,6 +1109,7 @@
           "optionID" : 650,
           "optionName" : "HMG & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -1008,6 +1121,7 @@
         "autoAddDictionary" : {
           "650" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Fanous Remote",
@@ -1017,6 +1131,7 @@
           "optionID" : 651,
           "optionName" : "Flash Pulse, Sniffer & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -1026,6 +1141,7 @@
         "autoAddDictionary" : {
           "651" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shaytaniyah Remote",
@@ -1035,6 +1151,7 @@
           "optionID" : 652,
           "optionName" : "Smart Missile Launcher & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -1046,6 +1163,7 @@
         "autoAddDictionary" : {
           "652" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tarik Mansuri",
@@ -1055,6 +1173,7 @@
           "optionID" : 653,
           "optionName" : "AP Rifle, Light Shotgun, Nanopulser, Grenades, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 56.0,
@@ -1062,6 +1181,7 @@
           "optionID" : 654,
           "optionName" : "Spitfire, Nanopulser, Grenades, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -1071,6 +1191,7 @@
         "unitCost" : 0.0,
         "unitID" : 193,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tarik Mansuri Lieutenant",
@@ -1080,6 +1201,7 @@
           "optionID" : 655,
           "optionName" : "Spitfire, Nanopulser, Grenades, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -1089,6 +1211,7 @@
           "optionID" : 656,
           "optionName" : "AP Rifle, Light Shotgun, Nanopulser, Grenades, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -1098,6 +1221,7 @@
         "unitCost" : 0.0,
         "unitID" : 194,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Kasym Beg",
@@ -1107,6 +1231,7 @@
           "optionID" : 657,
           "optionName" : "Chain Rifle, Panzerfaust, Smoke Grenades, Pistol & EXP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -1116,6 +1241,7 @@
         "autoAddDictionary" : {
           "657" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Kasym Beg Lieutenant (Regular Impetuous)",
@@ -1125,6 +1251,7 @@
           "optionID" : 658,
           "optionName" : "Chain Rifle, Panzerfaust, Smoke Grenades, Pistol & EXP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -1136,6 +1263,7 @@
         "autoAddDictionary" : {
           "658" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zamira",
@@ -1145,6 +1273,7 @@
           "optionID" : 659,
           "optionName" : "Light Shotgun, Smoke Grenades, Pistol & E/M CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -1154,6 +1283,7 @@
         "autoAddDictionary" : {
           "659" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zuleyka",
@@ -1163,6 +1293,7 @@
           "optionID" : 660,
           "optionName" : "2 Light Flamethrowers, Smoke Grenades, 2 Breaker Pistols & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -1172,6 +1303,7 @@
         "autoAddDictionary" : {
           "660" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

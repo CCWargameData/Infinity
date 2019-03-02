@@ -11,6 +11,7 @@
           "optionID" : 828,
           "optionName" : "Chain Rifle, Smoke Grenades, Pistol & Shock CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 8.0,
@@ -18,6 +19,7 @@
           "optionID" : 829,
           "optionName" : "Chain Rifle, Smoke Grenades, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 9.0,
@@ -25,6 +27,7 @@
           "optionID" : 830,
           "optionName" : "Chain Rifle, Smoke Grenades, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 16.0,
@@ -32,6 +35,7 @@
           "optionID" : 831,
           "optionName" : "Boarding Shotgun, Smoke Grenades, Pistol & Shock CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
@@ -39,6 +43,7 @@
           "optionID" : 832,
           "optionName" : "Rifle, Smoke Grenades, Pistol & Shock CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -46,6 +51,7 @@
         "unitCost" : 0.0,
         "unitID" : 293,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bounty Hunter",
@@ -55,6 +61,7 @@
           "optionID" : 833,
           "optionName" : "Combi Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 13.0,
@@ -62,6 +69,7 @@
           "optionID" : 834,
           "optionName" : "Boarding Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 19.0,
@@ -69,6 +77,7 @@
           "optionID" : 835,
           "optionName" : "Sniper Rifle, 2 Breaker Pistols & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -78,6 +87,7 @@
           "optionID" : 836,
           "optionName" : "Spitfire, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -87,6 +97,7 @@
         "unitCost" : 0.0,
         "unitID" : 294,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wardriver Hacker (Defensive Hacking Device)",
@@ -96,6 +107,7 @@
           "optionID" : 838,
           "optionName" : "Boarding Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -107,6 +119,7 @@
         "autoAddDictionary" : {
           "838" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wardriver Hacker (Hacking Device)",
@@ -116,6 +129,7 @@
           "optionID" : 839,
           "optionName" : "Boarding Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -127,6 +141,7 @@
         "autoAddDictionary" : {
           "839" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "CSU",
@@ -136,6 +151,7 @@
           "optionID" : 840,
           "optionName" : "Breaker Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 12.0,
@@ -143,6 +159,7 @@
           "optionID" : 841,
           "optionName" : "Combi Rifle, Nanopulser, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 11.0,
@@ -150,6 +167,7 @@
           "optionID" : 842,
           "optionName" : "Boarding Shotgun, Nanopulser, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -157,6 +175,7 @@
         "unitCost" : 0.0,
         "unitID" : 297,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Anaconda",
@@ -166,6 +185,7 @@
           "optionID" : 843,
           "optionName" : "Spitfire, Light Flamethrower, Panzerfaust & CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -177,6 +197,7 @@
         "autoAddDictionary" : {
           "843" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Operator",
@@ -186,6 +207,7 @@
           "optionID" : 844,
           "optionName" : "Spitfire, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -195,6 +217,7 @@
         "autoAddDictionary" : {
           "844" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Saito Togan",
@@ -204,6 +227,7 @@
           "optionID" : 845,
           "optionName" : "Combi Rifle, Smoke Grenades, Pistol, EXP CCW & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -213,6 +237,7 @@
         "autoAddDictionary" : {
           "845" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Miyamoto Mushashi",
@@ -222,6 +247,7 @@
           "optionID" : 846,
           "optionName" : "Chain Rifle, Flash Pulse, Pistol, AP CCW & EXP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -231,6 +257,7 @@
         "autoAddDictionary" : {
           "846" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

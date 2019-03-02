@@ -11,6 +11,7 @@
           "optionID" : 368,
           "optionName" : "Combi Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 22.0,
@@ -18,6 +19,7 @@
           "optionID" : 462,
           "optionName" : "HMG, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -27,6 +29,7 @@
           "optionID" : 472,
           "optionName" : "Combi Rifle, Light Grenade Launcher, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -36,6 +39,7 @@
           "optionID" : 478,
           "optionName" : "K1 Sniper Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -45,6 +49,7 @@
           "optionID" : 526,
           "optionName" : "Missile Launcher, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -54,6 +59,7 @@
         "unitCost" : 0.0,
         "unitID" : 250,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morat Hacker (El Hacking Device)",
@@ -63,6 +69,7 @@
           "optionID" : 563,
           "optionName" : "Combi Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -74,6 +81,7 @@
         "autoAddDictionary" : {
           "563" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morat (Forward Observer)",
@@ -83,6 +91,7 @@
           "optionID" : 629,
           "optionName" : "Combi Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -92,6 +101,7 @@
         "autoAddDictionary" : {
           "629" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morat Paramedic (MediKit)",
@@ -101,6 +111,7 @@
           "optionID" : 649,
           "optionName" : "Combi Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -110,6 +121,7 @@
         "autoAddDictionary" : {
           "649" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morat Lieutenant",
@@ -119,6 +131,7 @@
           "optionID" : 671,
           "optionName" : "Combi Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -130,6 +143,7 @@
         "autoAddDictionary" : {
           "671" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Unidron",
@@ -139,6 +153,7 @@
           "optionID" : 727,
           "optionName" : "Plasma Carbine, Pistol & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 16.0,
@@ -146,6 +161,7 @@
           "optionID" : 735,
           "optionName" : "K1 Combi Rifle, Pistol & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -155,6 +171,7 @@
           "optionID" : 757,
           "optionName" : "K1 Combi Rifle, 1 TinBot A (Deflector L1), Pistol & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -164,6 +181,7 @@
           "optionID" : 758,
           "optionName" : "Plasma Sniper Rifle, Pistol & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -173,6 +191,7 @@
           "optionID" : 759,
           "optionName" : "Missile Launcher, Light Shotgun, Pistol & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -182,6 +201,7 @@
           "optionID" : 760,
           "optionName" : "Spitfire, Pistol & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -191,6 +211,7 @@
         "unitCost" : 0.0,
         "unitID" : 255,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Unidron (Forward Observer)",
@@ -200,6 +221,7 @@
           "optionID" : 761,
           "optionName" : "Plasma Carbine, Pistol & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -209,6 +231,7 @@
         "autoAddDictionary" : {
           "761" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Fraacta",
@@ -218,6 +241,7 @@
           "optionID" : 762,
           "optionName" : "Combi Rifle, Nanopulser, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 28.0,
@@ -225,6 +249,7 @@
           "optionID" : 763,
           "optionName" : "Boarding Shotgun, Nanopulser, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
@@ -232,6 +257,7 @@
           "optionID" : 764,
           "optionName" : "Spitfire, Nanopulser, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -241,6 +267,7 @@
         "unitCost" : 0.0,
         "unitID" : 257,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Fraacta (El Assault Hacking Device)",
@@ -250,6 +277,7 @@
           "optionID" : 765,
           "optionName" : "Combi Rifle, Nanopulser, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -261,6 +289,7 @@
         "autoAddDictionary" : {
           "765" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Umbra Legate",
@@ -270,6 +299,7 @@
           "optionID" : 766,
           "optionName" : "K1 Combi Rifle, Flash Pulse, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 41.0,
@@ -277,6 +307,7 @@
           "optionID" : 767,
           "optionName" : "Spitfire, Flash Pulse, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -286,6 +317,7 @@
         "unitCost" : 0.0,
         "unitID" : 259,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Umbra Legate Hacker (Hacking Device Plus)",
@@ -295,6 +327,7 @@
           "optionID" : 768,
           "optionName" : "Boarding Shotgun, Flash Pulse, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -306,6 +339,7 @@
         "autoAddDictionary" : {
           "768" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Umbra Legate Lieutenant",
@@ -315,6 +349,7 @@
           "optionID" : 769,
           "optionName" : "K1 Combi Rifle, Flash Pulse, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -324,6 +359,7 @@
           "optionID" : 770,
           "optionName" : "Spitfire, Flash Pulse, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -333,6 +369,7 @@
         "unitCost" : 0.0,
         "unitID" : 261,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Maakrep Tracker",
@@ -342,6 +379,7 @@
           "optionID" : 771,
           "optionName" : "Combi Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 33.0,
@@ -349,6 +387,7 @@
           "optionID" : 772,
           "optionName" : "HMG, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -358,6 +397,7 @@
           "optionID" : 773,
           "optionName" : "Boarding Shotgun, Grenades, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 33.0,
@@ -365,6 +405,7 @@
           "optionID" : 775,
           "optionName" : "MULTI Sniper Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -374,6 +415,7 @@
         "unitCost" : 0.0,
         "unitID" : 262,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Maakrep Tracker Hacker (El Hacking Device)",
@@ -383,6 +425,7 @@
           "optionID" : 776,
           "optionName" : "Boarding Shotgun, Grenades, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -394,6 +437,7 @@
         "autoAddDictionary" : {
           "776" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Maakrep Tracker Lieutenant",
@@ -403,6 +447,7 @@
           "optionID" : 777,
           "optionName" : "Combi Rifle, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -414,6 +459,7 @@
         "autoAddDictionary" : {
           "777" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rodok",
@@ -423,6 +469,7 @@
           "optionID" : 778,
           "optionName" : "Combi Rifle, 2 Light Shotguns, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 27.0,
@@ -430,6 +477,7 @@
           "optionID" : 779,
           "optionName" : "HMG, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -439,6 +487,7 @@
           "optionID" : 780,
           "optionName" : "Boarding Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 28.0,
@@ -446,6 +495,7 @@
           "optionID" : 781,
           "optionName" : "Missile Launcher, Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -455,6 +505,7 @@
         "unitCost" : 0.0,
         "unitID" : 265,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rodok Paramedic (MediKit)",
@@ -464,6 +515,7 @@
           "optionID" : 782,
           "optionName" : "Boarding Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -473,6 +525,7 @@
         "autoAddDictionary" : {
           "782" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rodok Hacker (El Assault Hacking Device)",
@@ -482,6 +535,7 @@
           "optionID" : 783,
           "optionName" : "Boarding Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -493,6 +547,7 @@
         "autoAddDictionary" : {
           "783" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rodok Lieutenant",
@@ -502,6 +557,7 @@
           "optionID" : 784,
           "optionName" : "Combi Rifle, 2 Light Shotgun, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -513,6 +569,7 @@
         "autoAddDictionary" : {
           "784" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Charontid (Multispectral Visor L3)",
@@ -522,6 +579,7 @@
           "optionID" : 785,
           "optionName" : "Plasma Rifle, Nonopulser, Heavy Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 79.0,
@@ -529,6 +587,7 @@
           "optionID" : 786,
           "optionName" : "HMG, Nonopulser, Heavy Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -538,6 +597,7 @@
         "unitCost" : 0.0,
         "unitID" : 269,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Charontid",
@@ -547,6 +607,7 @@
           "optionID" : 787,
           "optionName" : "Plasma Rifle, Sepsitor Plus + 1 TinBot A (Deflector L1), Heavy Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -558,6 +619,7 @@
         "autoAddDictionary" : {
           "787" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Charontid Hacker (Hacking Device Plus)",
@@ -567,6 +629,7 @@
           "optionID" : 788,
           "optionName" : "Plasma Rifle, Nanopulser, Heavy Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -578,6 +641,7 @@
         "autoAddDictionary" : {
           "788" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Charontid Lieutenant",
@@ -587,6 +651,7 @@
           "optionID" : 791,
           "optionName" : "Plasma Rifle, Sepsitor Plus, Heavy Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 78.0,
@@ -594,6 +659,7 @@
           "optionID" : 792,
           "optionName" : "Plasma Rifle, Sepsitor Plus + 1 TinBot A (Deflector L1), Heavy Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -601,6 +667,7 @@
         "unitCost" : 0.0,
         "unitID" : 272,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Charontid Lieutenant (Multispectral Visor L3)",
@@ -610,6 +677,7 @@
           "optionID" : 789,
           "optionName" : "Plasma Rifle, Nanopulser, Heavy Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 79.0,
@@ -617,6 +685,7 @@
           "optionID" : 790,
           "optionName" : "HMG, Nanopulser, Heavy Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -626,6 +695,7 @@
         "unitCost" : 0.0,
         "unitID" : 273,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Raicho",
@@ -635,6 +705,7 @@
           "optionID" : 796,
           "optionName" : "MULTI HMG & Heavy Flamethrower",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -644,6 +715,7 @@
           "optionID" : 797,
           "optionName" : "MULTI HMG & AP Heavy Pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -653,6 +725,7 @@
         "unitCost" : 0.0,
         "unitID" : 274,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Raicho Pilot",
@@ -662,6 +735,7 @@
           "optionID" : 798,
           "optionName" : "Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -671,6 +745,7 @@
         "autoAddDictionary" : {
           "789" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Avatar Lieutenant (Strategos L3)",
@@ -680,6 +755,7 @@
           "optionID" : 799,
           "optionName" : "MULTI HMA, Sepsitor Plus, & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "3.5"
           }
@@ -691,6 +767,7 @@
         "autoAddDictionary" : {
           "799" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shrouded",
@@ -700,6 +777,7 @@
           "optionID" : 800,
           "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 23.0,
@@ -707,6 +785,7 @@
           "optionID" : 801,
           "optionName" : "Boarding Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 31.0,
@@ -714,6 +793,7 @@
           "optionID" : 802,
           "optionName" : "MULTI Sniper Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -723,6 +803,7 @@
         "unitCost" : 0.0,
         "unitID" : 277,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shrouded Hacker (El Assault Hacking Device)",
@@ -732,6 +813,7 @@
           "optionID" : 803,
           "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -743,6 +825,7 @@
         "autoAddDictionary" : {
           "803" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shrouded (Forward Observer)",
@@ -752,6 +835,7 @@
           "optionID" : 804,
           "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -761,6 +845,7 @@
         "autoAddDictionary" : {
           "804" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Malignos",
@@ -770,6 +855,7 @@
           "optionID" : 805,
           "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 38.0,
@@ -777,6 +863,7 @@
           "optionID" : 806,
           "optionName" : "Combi Rifle, Monofilament Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -786,6 +873,7 @@
           "optionID" : 807,
           "optionName" : "Boarding Shotgun, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 42.0,
@@ -793,6 +881,7 @@
           "optionID" : 808,
           "optionName" : "MULTI Sniper Rifle, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -802,6 +891,7 @@
         "unitCost" : 0.0,
         "unitID" : 280,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Malignos Hacker (El Assault Hacking Device)",
@@ -811,6 +901,7 @@
           "optionID" : 809,
           "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -822,6 +913,7 @@
         "autoAddDictionary" : {
           "809" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Malignos (Forward Observer)",
@@ -831,6 +923,7 @@
           "optionID" : 810,
           "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -840,6 +933,7 @@
         "autoAddDictionary" : {
           "810" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Malignos Lieutenant",
@@ -849,6 +943,7 @@
           "optionID" : 811,
           "optionName" : "Combi Rifle, Antipersonnel Mines, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "2"
           }
@@ -860,6 +955,7 @@
         "autoAddDictionary" : {
           "811" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Speculo Killer",
@@ -869,6 +965,7 @@
           "optionID" : 812,
           "optionName" : "Combi Rifle, Smoke Grenades, Pistol, Monofilament CCW & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -878,6 +975,7 @@
           "optionID" : 813,
           "optionName" : "Boarding Shotgun, Smoke Grenades, Pistol, Monofilament CCW & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -887,6 +985,7 @@
         "unitCost" : 0.0,
         "unitID" : 284,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Daturazi",
@@ -896,6 +995,7 @@
           "optionID" : 814,
           "optionName" : "Combi Rifle, Smoke Grenades, Pistol & Shock CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 21.0,
@@ -903,6 +1003,7 @@
           "optionID" : 815,
           "optionName" : "Combi Rifle, Smoke Grenades, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 22.0,
@@ -910,6 +1011,7 @@
           "optionID" : 816,
           "optionName" : "Combi Rifle, Smoke Grenades, Pistol & DA CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
@@ -917,6 +1019,7 @@
           "optionID" : 817,
           "optionName" : "Chain Rifle, Smoke Grenades, Pistol & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -924,6 +1027,7 @@
           "optionID" : 818,
           "optionName" : "Boarding Shotgun, Smoke Grenades, Pistol & Shock CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 21.0,
@@ -931,6 +1035,7 @@
           "optionID" : 819,
           "optionName" : "Combi Rifle, Smoke Light Grenade Launcher, Pistol & Shock CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -940,6 +1045,7 @@
         "unitCost" : 0.0,
         "unitID" : 285,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gaki",
@@ -949,6 +1055,7 @@
           "optionID" : 820,
           "optionName" : "AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -958,6 +1065,7 @@
         "autoAddDictionary" : {
           "820" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Preta",
@@ -967,6 +1075,7 @@
           "optionID" : 821,
           "optionName" : "Chain Rifle & AP CCW",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -976,6 +1085,7 @@
         "autoAddDictionary" : {
           "821" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Med-Tech Obsidon Medchanoid",
@@ -985,6 +1095,7 @@
           "optionID" : 822,
           "optionName" : "Combi Rifle, D-Charges, Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -994,6 +1105,7 @@
         "autoAddDictionary" : {
           "822" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "M-Drone",
@@ -1003,6 +1115,7 @@
           "optionID" : 823,
           "optionName" : "Combi Rifle, Sniffer & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -1012,6 +1125,7 @@
         "autoAddDictionary" : {
           "823" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Q-Drone",
@@ -1021,6 +1135,7 @@
           "optionID" : 824,
           "optionName" : "HMG & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -1030,6 +1145,7 @@
           "optionID" : 825,
           "optionName" : "Plasma Rifle & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1"
           }
@@ -1039,6 +1155,7 @@
         "unitCost" : 0.0,
         "unitID" : 290,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "T-Drone",
@@ -1048,6 +1165,7 @@
           "optionID" : 826,
           "optionName" : "Smart Missile Launcher, Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "1.5"
           }
@@ -1059,6 +1177,7 @@
         "autoAddDictionary" : {
           "826" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "R-Drone",
@@ -1068,6 +1187,7 @@
           "optionID" : 827,
           "optionName" : "Flash Pulse, Sniffer & Electric Pulse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -1077,6 +1197,7 @@
         "autoAddDictionary" : {
           "827" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Charontid Lieutenant Hacker (Hacking Device Plus)",
@@ -1086,6 +1207,7 @@
           "optionID" : 794,
           "optionName" : "Plasma Rifle, Nanopulser, Heavy Pistol & Knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Special Weapon Cost" : "0.5"
           }
@@ -1097,6 +1219,7 @@
         "autoAddDictionary" : {
           "794" : "1"
         },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,
